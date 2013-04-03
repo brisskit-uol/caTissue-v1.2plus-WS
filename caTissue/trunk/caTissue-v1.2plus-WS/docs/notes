@@ -1,0 +1,10 @@
+import org.w3c.dom.*;
+
+import com.mysql.jdbc.PreparedStatement;
+
+
+^(?!import java)(?!import javax)(?import)
+
+^((?:import )(!?:java)
+
+ grep -r -e '^import' *

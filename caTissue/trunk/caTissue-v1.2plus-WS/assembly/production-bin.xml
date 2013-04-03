@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assembly>
+  <id></id>
+  <formats>
+    <format>war</format>
+  </formats>
+  <includeBaseDirectory>false</includeBaseDirectory>
+  <dependencySets>
+	<dependencySet>
+		<outputDirectory>WEB-INF/lib</outputDirectory>
+		<useProjectArtifact>false</useProjectArtifact>
+		<useTransitiveDependencies>false</useTransitiveDependencies>
+		<excludes></excludes>		
+	</dependencySet>
+  </dependencySets>
+  <fileSets>
+    <fileSet>
+    	<!-- includes  -->
+ 		<directory>${basedir}/WebContent</directory> 
+ 		<outputDirectory></outputDirectory>
+    </fileSet>
+    <fileSet>
+    	<!-- includes  -->
+ 		<directory>${basedir}/build/classes</directory> 
+ 		<outputDirectory>WEB-INF/classes</outputDirectory>
+    </fileSet>
+  </fileSets>
+</assembly>
