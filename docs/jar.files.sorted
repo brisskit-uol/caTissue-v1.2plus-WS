@@ -1,0 +1,138 @@
+addressing-1.0.jar
+AdvanceQuery.jar
+ant.jar
+antlr-2.7.6.jar
+axis.jar
+BulkEMPIOperations.jar
+bulkoperator.jar
+c3p0-0.9.0.jar
+casclient-2.1.1.jar
+castor-0.9.9.jar
+catiesCC.jar
+catissuecore-client.jar
+catissuecore.jar
+cglib.jar
+CHIRPS5.0.6.jar
+ciderIntegration.jar
+clinical_annotation.jar
+clm.jar
+cobertura.jar  <<== Used for the cobertura maven plugin? Development only?
+codegen.jar
+cog-axis.jar
+cog-jglobus.jar
+com.ibm.mq.jar
+com.ibm.mqjms.jar
+commonpackage-1.2.8.jar
+commons-dbcp-1.2.1.jar
+commons-httpclient-3.0.1.jar
+commons-logging.jar
+commons-validator.jar
+concurrent.jar
+csmapi.jar						222063	216Kb
+DAO-1.1.9.5.jar
+db2java.jar						1228432
+db2jcc.jar   1973658
+Default_label_barcode_gen.jar   39663 edu.wustl
+dhtmlxconnector.jar				67295   com.dhtmlx
+dom4j-1.6.jar
+dtsrpcclient.jar	65474
+DynamicExtensions.jar	1210476 edu.wustl
+ehcache-1.2.2.jar
+ext-1.1.1.jar			257353  org.lsmp
+flex-acrobat.jar		15120	flex.acrobat
+flex-messaging-common.jar	84827	
+flex-messaging.jar		957001
+flex-messaging-opt.jar	20177
+freemarker-2.3.4.jar
+gate.jar			4204035
+hibernate3.jar
+IDPAuthenticationManager0_0.jar  41036   edu.wustl
+IdPJar.jar  41219 edu.wustl
+jackson-mapper-asl-1.8.3.jar
+jalopy-1.0b11.jar
+jasper-compiler-jdt.jar		943870  921k
+jaws.jar	578289  sun
+jaxb1-impl.jar  size: 980574 980574 
+jaxb-api.jar   78850  78850 
+jaxb-impl.jar  
+jaxb-libs.jar 
+ 
+jaxb-xjc.jar  3111974 3111974 
+jaxrpc.jar  
+jboss-client.jar  
+jce-jdk13-125.jar 
+jdom-1.1.jar 
+jdom.jar  <<<<=== I've not included this one in the pom
+
+jdtcore.jar
+jep-2.4.1.jar
+jersey-bundle-1.10.jar 
+jersey-client-1.10.jar 
+jersey-core-1.10.jar 
+jersey-server-1.10.jar 
+jersey-servlet-1.10.jar
+jettison-1.1.jar 
+jmiutils.jar 
+json.jar 
+json-smart-1.1.jar
+jsr173_1.0_api.jar 
+jsr173_api.jar
+jsr311-api-1.1.1.jar 
+jstl.jar 
+jtds12.jar 
+junit-3.8.1.jar 
+label_barcode_gen_client.jar 
+labelSQLApp.jar 
+log4j.jar
+lucene-core-2.0.0.jar 
+mail.jar 
+mdrapi.jar 
+Metaphrase.jar 
+mmtxProject.jar 
+mof.jar 
+mysql-connector-java-5.1.9.jar
+
+namespace.jar 
+nbmdr.jar 
+ognl-2.6.7.jar 
+org-netbeans-graph.jar
+org-openide-util.jar 
+osgi.jar 
+ParticipantManager.jar 
+pathology_scg.jar
+printservice_module.jar 
+query.jar 
+relaxngDatatype.jar 
+resources.jar 
+retrotranslator-runtime-1.2.0.jar
+retrotranslator-transformer-1.2.0.jar
+runtime.jar 
+scrubber-runtime.jar   
+securityManager-1.1.7.2.jar
+serializer.jar 
+SimpleQuery-1.1.9.2.2.jar
+spring-context-1.2.8.jar 
+
+spring-core-1.2.8.jar
+spring.jar 
+spring-web-1.2.8.jar 
+standard.jar 
+struts2-core-j4-2.0.5.jar 
+struts.jar 
+swingx-2006_10_08.jar 
+titli-washu-1.0.jar 
+uml-1.4.jar 
+washu-commons-1.1.7.jar  
+wsdl4j-1.5.1.jar
+wsdl4j-1.6.1.jar   I've not included this one in the pom
+wsrf_core.jar   
+wsrf_core_stubs.jar 
+wss4j.jar  
+xalan.jar  
+xbean.jar   
+xercesImpl-1.0.jar  
+xercesImpl.jar     Identical to above.
+xml-apis.jar   
+xmlrpc-2.0.jar  
+xsdlib.jar  
+xwork-j4-2.0.0.jar  I'm trying version 2.0.0-j4
