@@ -15,12 +15,12 @@
 		<repository>
 			<id>nexus</id>
 			<name>Brisskit Maven Snapshots</name>
-			<url>scpexe://maven.brisskit.org/var/local/brisskit/sonatype-work/nexus/storage/releases</url>
+			<url>scpexe://maven.brisskit.le.ac.uk/var/local/brisskit/sonatype-work/nexus/storage/releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>Brisskit Maven Releases</name>
-			<url>scpexe://maven.brisskit.org/var/local/brisskit/sonatype-work/nexus/storage/snapshots</url>
+			<url>scpexe://maven.brisskit.le.ac.uk/var/local/brisskit/sonatype-work/nexus/storage/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 
@@ -28,7 +28,7 @@
 		<repository>
 			<id>nexus</id>
 			<name>Brisskit Maven Repo</name>
-			<url>http://maven.brisskit.org/nexus/content/groups/public</url>
+			<url>http://maven.brisskit.le.ac.uk/nexus/content/groups/public</url>
 			<releases>
 				<enabled>false</enabled>
 			</releases>
